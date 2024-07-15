@@ -17229,10 +17229,10 @@ unist-util-visit@^5.0.0:
     unist-util-is "^6.0.0"
     unist-util-visit-parents "^6.0.0"
 
-uniswap-pool-swap@^1.1.8:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/uniswap-pool-swap/-/uniswap-pool-swap-1.1.8.tgz#d0cf3d0b317bf58b9df9bd3704e5a1e8ffd3c842"
-  integrity sha512-6mMhST23uk0fonPxWyGBX12FkCjk9PsAJKsX1nXj3Y0FqJRLeYrYho6mIJvOeNQPeAvbcH82k09+NCasnzVDZQ==
+uniswap-pool-swap@^1.1.10:
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/uniswap-pool-swap/-/uniswap-pool-swap-1.1.10.tgz#acbdb9bc3d17c32b2036af4e47b3faa7f0a3bd57"
+  integrity sha512-bcLyAjetTH+mm4GE1KcROfAkSg08X6gK2L0pJom6PXf8po3JOqkkzr+zbvXFTzKtQh0mk/PDKnFvz7DsCZiRiw==
   dependencies:
     "@apollo/client" "^3.7.2"
     "@babel/plugin-transform-runtime" "^7.17.0"
