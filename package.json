@@ -9,13 +9,16 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "uniswap-pool-swap": "^1.1.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject",
+    "cosmos": "cosmos",
+    "cosmos-export": "cosmos-export"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +37,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "png-ts": "^0.0.3",
+    "react-cosmos": "^6.1.1",
+    "react-cosmos-plugin-webpack": "^6.1.1",
+    "styled-components": "^6.1.11"
   }
 }
